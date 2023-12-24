@@ -1,2 +1,2 @@
-# javascript-code-beeno
- A repository for javascript coding based series
+#Code-with-beeno
+ A repository for python projects
